@@ -119,3 +119,8 @@ The response carries `{ restaurants, pagination: { page, limit, total, pages } }
 Import `postman_collection.json` into Postman. The login request stores the returned
 token in the `token` collection variable, so the protected requests authenticate
 automatically. Set the `baseUrl` variable (default `http://localhost:4000`).
+
+## Author
+ADITYA SUNIL CHOUKSEY
+150096725070
+SAM ALTMAN
